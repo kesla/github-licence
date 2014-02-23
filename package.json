@@ -1,0 +1,27 @@
+{
+  "name": "github-licence",
+  "version": "0.0.0",
+  "description": "Get the licence of a github-project",
+  "main": "github-licence.js",
+  "scripts": {
+    "test": "tap test/"
+  },
+  "keywords": [
+    "github",
+    "licence"
+  ],
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "github": "^0.1.14"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kesla/github-licence.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kesla/github-licence/issues"
+  },
+  "homepage": "https://github.com/kesla/github-licence"
+}
